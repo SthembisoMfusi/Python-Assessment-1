@@ -1,0 +1,20 @@
+# Python Assessment Requirements
+# =============================
+
+# This assessment uses only Python standard library modules
+# No external dependencies are required
+
+# Required Python version: 3.6 or higher
+# Standard library modules used:
+# - unittest (for testing framework)
+# - ast (for code analysis)
+# - inspect (for code introspection)
+# - difflib (for text comparison)
+# - datetime (for timestamps)
+# - sys, os, time (for system operations)
+# - typing (for type hints)
+
+# To run the assessment, simply use:
+# python run_assessment.py
+
+# No pip install required!
