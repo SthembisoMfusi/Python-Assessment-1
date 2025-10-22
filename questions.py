@@ -103,7 +103,7 @@ def count_word_frequency(text):
 
 def calculate_bmi(weight, height):
     """
-    Calculate Body Mass Index (BMI).
+    Calculate Body Mass Index (BMI). Use the formula bmi = weight/ (height**2)
     
     Args:
         weight (float): Weight in kilograms
